@@ -1,0 +1,16 @@
+.card-title {
+     color: rgba(186, 95, 4, 0.842);
+}
+
+.heading {
+     color: hsl(24, 94%, 27%);
+}
+
+.content-wrapper {
+     color: rgb(10, 10, 10);
+     background-color: rgba(240, 228, 172, 0.434);
+}
+
+.ciekawyElement {
+     color: #ff5900ca;
+}
